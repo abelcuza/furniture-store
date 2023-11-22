@@ -17,7 +17,8 @@ class Product(models.Model):
 
 
 class Customer(models.Model):
-    name = models.CharField(max_length=50)
+    first_name = models.CharField(max_length=50)
+    last_name = models.CharField(max_length=50)
     address = models.CharField(max_length=200, null=True, blank=True)
     phone_number = models.CharField(max_length=11)
 
