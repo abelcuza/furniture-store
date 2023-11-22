@@ -22,8 +22,12 @@ class Customer(models.Model):
     address = models.CharField(max_length=200, null=True, blank=True)
     phone_number = models.CharField(max_length=11)
 
+    @property
+    def full_name(self):
+        return f"{self.first_name} {self.last_name}"
+
     def __str__(self):
-        return self.name
+        return self.full_name
 
 
 class Order(models.Model):
@@ -34,4 +38,4 @@ class Order(models.Model):
     shipping_address = models.CharField(max_length=200)
 
     def __str__(self):
-        return f"{self.customer.name} - {self.order_date}"
+        return f"{self.customer.full_name} - {self.order_date}"
