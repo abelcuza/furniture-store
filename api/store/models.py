@@ -8,7 +8,7 @@ class Category(models.Model):
 class Product(models.Model):
     name = models.CharField(max_length=50)
     description = models.CharField(max_length=255)
-    price = models.DecimalField(max_length=8, decimal_places=2)
+    price = models.DecimalField(max_digits=8, decimal_places=2)
     stock_quantity = models.IntegerField()
     category = models.ForeignKey(Category, on_delete=models.SET_NULL, null=True)
 
