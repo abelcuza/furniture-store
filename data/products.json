@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Comfort Haven Sofa",
+    "description": "Plush fabric sofa with reclining features and adjustable armrests, perfect for lounging.",
+    "price": 899,
+    "category": "Living Room",
+    "img_url": "https://i0.wp.com/onehometherapy.com/wp-content/uploads/2020/09/haven-sofa-84-o-1.jpg?fit=710%2C710&ssl=1"
+  },
+  {
+    "name": "Modern Elegance Accent Chair",
+    "description": "Sleek and comfortable chair upholstered in leatherette with a stainless steel frame.",
+    "price": 349,
+    "category": "Living Room",
+    "img_url": "https://i5.walmartimages.com/asr/78842039-9b91-4f4f-bbdf-179495671345.ce6eec98eda7c1dc2009a5a2f08a5e1c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+  },
+  {
+    "name": "Urban Chic Centerpiece Coffee Table",
+    "description": "Solid wood coffee table with a rustic finish and ample storage space.",
+    "price": 299,
+    "category": "Living Room",
+    "img_url": "https://www.thespruce.com/thmb/HlIztxCW8mlfOPRR9Oa-FNsKY6I=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/SPR-Coffee-Table-Styling-Ideas-4126581-hero-9e9ff5d4e6a64172a5de960da251a8f5.jpg"
+  },
+  {
+    "name": "Contemporary Media Console TV Stand",
+    "description": "Minimalist TV stand with two storage cabinets and cable management features.",
+    "price": 449,
+    "category": "Living Room",
+    "img_url": "https://images.thdstatic.com/productImages/9e8ebf8e-edd2-4ff4-9125-5a66dbc68b09/svn/walnut-welwick-designs-tv-stands-hd8851-31_600.jpg"
+  },
+  {
+    "name": "Versatile Storage Tower Bookshelf",
+    "description": "Tall bookshelf made of durable engineered wood with adjustable shelves.",
+    "price": 179,
+    "category": "Living Room",
+    "img_url": "https://m.media-amazon.com/images/I/61Nx3AVqR3L.jpg"
+  },
+  {
+    "name": "DreamCloud Upholstered Bedframe",
+    "description": "Elegant upholstered platform bed with a tufted headboard.",
+    "price": 799,
+    "category": "Bedroom",
+    "img_url": "https://media.dreamcloudsleep.com/612b4ac22a00004c00430105?auto=webp"
+  },
+  {
+    "name": "OrthoSense Memory Foam Mattress",
+    "description": "Medium-firm memory foam mattress with cooling gel technology.",
+    "price": 699,
+    "category": "Bedroom",
+    "img_url": "https://cdn.mattressonline.co.uk/wp-content/uploads/2022/06/sealy-steeple-ortho-corner.jpg"
+  },
+  {
+    "name": "Coastal Retreat Nightstand",
+    "description": "Two-drawer nightstand made of sustainable bamboo with a coastal design.",
+    "price": 179,
+    "category": "Bedroom",
+    "img_url": "https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3458"
+  },
+  {
+    "name": "Elegant Extendable Dining Table",
+    "description": "Extendable hardwood dining table that comfortably seats 6-8 people.",
+    "price": 1299,
+    "category": "Dining Room",
+    "img_url": "https://mobilia.ca/media/catalog/product/7/4/745836393_wylla_table-2.jpg?width=700&height=560&store=en&image-type=image"
+  },
+  {
+    "name": "Modern Dining Chairs (Set of 4)",
+    "description": "Set of four upholstered dining chairs with sturdy metal legs.",
+    "price": 499,
+    "category": "Dining Room",
+    "img_url": "https://m.media-amazon.com/images/I/61DJ0mTw14L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Classic Wood File Organizer",
+    "description": "Sturdy wood filing cabinet with lockable drawers for secure storage.",
+    "price": 199,
+    "category": "Home Office",
+    "img_url": "https://m.media-amazon.com/images/I/71WR9KjJGkL.jpg"
+  },
+  {
+    "name": "Versatile Cube Storage Shelf",
+    "description": "Cube-shaped bookcase with multiple compartments for organizing books and decor.",
+    "price": 179,
+    "category": "Home Office",
+    "img_url": "https://i5.walmartimages.com/seo/Better-Homes-Gardens-6-Cube-Storage-Organizer-White_2841e51a-9cb3-48ea-9179-2a94b905548b_1.04d321dc5ea3547a7afd2b20216581d8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+  },
+  {
+    "name": "Adjustable Monitor Stand",
+    "description": "Height-adjustable monitor stand with storage drawers for improved ergonomics.",
+    "price": 79,
+    "category": "Home Office",
+    "img_url": "https://m.media-amazon.com/images/I/61P3Fb7gn7L.jpg"
+  },
+  {
+    "name": "All-Weather Wicker Patio Set",
+    "description": "Five-piece patio set with weather-resistant wicker and plush cushions.",
+    "price": 1399,
+    "category": "Outdoor",
+    "img_url": "https://images.homedepot.ca/productimages/p_1001485902.jpg?product-images=l"
+  },
+  {
+    "name": "Teak Wood Garden Bench",
+    "description": "Classic teak wood bench suitable for outdoor relaxation.",
+    "price": 299,
+    "category": "Outdoor",
+    "img_url": "https://i.pinimg.com/1200x/e9/fb/3d/e9fb3dae22018da0fccbceccd081bb7f.jpg"
+  }
+]
