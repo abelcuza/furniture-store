@@ -1,1 +1,3 @@
 django
+cx_Oracle
+django-environ
