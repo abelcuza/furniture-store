@@ -1,17 +1,22 @@
 [
   {
-    "category": "Living Room"
+    "category": "Living Room",
+    "img_url": "https://static.vecteezy.com/system/resources/previews/006/689/886/non_2x/living-room-icon-illustration-free-vector.jpg"
   },
   {
-    "category": "Bedroom"
+    "category": "Bedroom",
+    "img_url": "https://cdn-icons-png.flaticon.com/512/6192/6192020.png"
   },
   {
-    "category": "Dining Room"
+    "category": "Dining Room",
+    "img_url": "https://cdn-icons-png.flaticon.com/512/4813/4813014.png"
   },
   {
-    "category": "Home Office"
+    "category": "Home Office",
+    "img_url": "https://cdn-icons-png.flaticon.com/512/2943/2943173.png"
   },
   {
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "img_url": "https://png.pngtree.com/png-vector/20230421/ourmid/pngtree-outdoor-line-icon-vector-png-image_6717700.png"
   }
 ]

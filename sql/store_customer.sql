@@ -1,0 +1,10 @@
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (1, 'John', 'Doe', '123 Main St', '1234567890');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (2, 'Jane', 'Smith', '456 Elm St', '2345678901');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (3, 'Alice', 'Johnson', '789 Oak St', '3456789012');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (4, 'Bob', 'Williams', '101 Pine Ln', '4567890123');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (5, 'Carol', 'Brown', '202 Maple Ave', '5678901234');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (6, 'David', 'Davis', '303 Birch Rd', '6789012345');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (7, 'Eve', 'Miller', '404 Cedar Blvd', '7890123456');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (8, 'Frank', 'Wilson', '505 Cherry St', '8901234567');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (9, 'Grace', 'Moore', '606 Dogwood Dr', '9012345678');
+INSERT INTO store_customer (id, first_name, last_name, address, phone_number) VALUES (10, 'Henry', 'Taylor', '707 Fir Ct', '0123456789');

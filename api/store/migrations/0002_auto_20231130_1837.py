@@ -12,7 +12,10 @@ def create_categories(apps, schema_editor):
     with open('data/categories.json', 'r') as file:
         data = json.load(file)
         for obj in data:
-            Category.objects.using(db_alias).create(name=obj['category'])
+            Category.objects.using(db_alias).create(
+                name=obj['category'],
+                img_url=obj['img_url']
+            )
 
 
 def create_products(apps, schema_editor):
@@ -28,7 +31,8 @@ def create_products(apps, schema_editor):
                 price=obj['price'],
                 category=Category.objects.using(db_alias).get(name=obj['category']),
                 img_url=obj['img_url'],
-                stock_quantity=random.randint(1, 50)
+                stock_quantity=random.randint(1, 50),
+                rate=random.uniform(2.0, 5.0)
             )
 
 
